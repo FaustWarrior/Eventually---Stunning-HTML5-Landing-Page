@@ -1,0 +1,42 @@
+body{
+    background-image: url("C:\\Users\\Faust\\OneDrive\\Desktop\\Full Stack Web Development\\Eventually - Stunning HTML5 Landing Page\\assets\\images\\bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p{
+    font-family: "C:\\Users\\Faust\\OneDrive\\Desktop\\Full Stack Web Development\\Eventually - Stunning HTML5 Landing Page\\assets\\fonts\\Roboto-Regular.ttf";
+    font-size: 16px;
+    font-height: 26.4px;
+    font-style: normal;
+    padding-left: 20px;
+    color: #ffffff;
+    opacity: 0.8;
+}
+
+h1{
+    font-family: "C:\\Users\\Faust\\OneDrive\\Desktop\\Full Stack Web Development\\Eventually - Stunning HTML5 Landing Page\\assets\\fonts\\Roboto-Bold.ttf";
+    font-size: 52px;
+    font-height: 65px;
+    font-style: normal;
+    padding-left: 20px;
+    color: #ffffff;
+}
+
+input{
+    background: transparent;
+    padding-left: 20px;
+    border-style:solid;
+    border-radius: 3px;
+    border-spacing: 20px;
+    border-width: 1px;
+    border-color: #ffffff;
+    color: #ffffff;
+    opacity: 0.8;
+}
+
+button{
+    background-color: #1cb495;
+    border-color: #1cb495;
+}
